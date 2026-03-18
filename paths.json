@@ -1,8 +1,9 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/anchora-eds-xwalk/:/",
+    "/content/anchora-eds-xwalk/configuration:/.helix/config.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/anchora-eds-xwalk/"
   ]
 }
