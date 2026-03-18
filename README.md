@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--anchora-eds-xwalk--sunalipaul.aem.page/
+- Live: https://main--anchora-eds-xwalk--sunalipaul.aem.live/
 
 ## Documentation
 
